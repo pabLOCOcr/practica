@@ -1,0 +1,18 @@
+body{
+	background-color: green;
+	padding: 50% 50%;
+}
+h1, h2{
+	color: white;
+}
+h3, h4{
+	color: black;
+}
+.center, body{
+	width: 50%;
+	margin: 0 auto;
+}
+
+.center .center{
+	background-color: red;
+}

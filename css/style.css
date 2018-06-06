@@ -22,3 +22,6 @@ div{
 span{
 	color: red;
 }
+span span{
+	font-size: 12px;
+}

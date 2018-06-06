@@ -1,0 +1,23 @@
+commit 3848ea90904320e2c55c615a663dff8df7655290
+Author: pabLOCO <pabloco@outlook.com>
+Date:   Wed Jun 6 13:32:11 2018 -0600
+
+    agregamos nuevo contenido
+
+commit 9a33306793ca2b51d01c66468507316e19eb767e
+Author: pabLOCO <pabloco@outlook.com>
+Date:   Wed Jun 6 13:03:36 2018 -0600
+
+    Cambios en los estilos
+
+commit 0bf109e3f0e978dd5a08bbbb6095e6ed8ff09b52
+Author: pabLOCO <pabloco@outlook.com>
+Date:   Wed Jun 6 13:00:38 2018 -0600
+
+    2. agregar archivo css
+
+commit a311978f53bfebf2587afd8e8b12f16f3bf56405
+Author: pabLOCO <pabloco@outlook.com>
+Date:   Wed Jun 6 12:59:31 2018 -0600
+
+    1. agregar archivos

@@ -49,6 +49,17 @@
 			<div class="center">Este es otro cambio</div><!--end .center -->
 			<hr>
 			<a href="http://www.infotechcr.com"></a>
+			<span>
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit. In justo dui, imperdiet vel nibh eget, ullamcorper scelerisque massa. Maecenas fermentum sapien et ipsum ultrices condimentum. Maecenas consequat tincidunt est, ac dapibus libero tincidunt ut. Nulla euismod tristique laoreet. Donec eu auctor massa, nec pulvinar nisl. Donec et ex velit. Suspendisse scelerisque, eros sed efficitur sollicitudin, tellus felis auctor quam, porttitor accumsan quam arcu id ante. Praesent ex lorem, cursus id lacus ac, posuere porttitor neque. Sed at dolor risus.
+
+				Vestibulum commodo, justo nec fermentum hendrerit, purus sapien tincidunt arcu, et malesuada est purus vitae lacus. Etiam nec eros commodo, consectetur est id, aliquet lectus. In viverra aliquet facilisis. Duis vitae arcu elementum ex lobortis laoreet. Phasellus gravida blandit eros, at porta elit commodo ac. Nulla magna nibh, consequat non semper vel, laoreet ac eros. Nullam leo tellus, vulputate et massa ac, semper dapibus massa. Praesent eget justo vitae dolor mattis tristique vitae quis erat. Donec in malesuada leo. Sed ultricies lectus sapien, id scelerisque eros posuere nec. Proin ut laoreet eros, eu luctus magna. Morbi laoreet eu enim sed interdum. Nam congue nisi quis velit pharetra cursus. Pellentesque placerat tortor nisl, ut interdum elit blandit in. Nam sed turpis eu nisi vulputate maximus. Maecenas tristique facilisis sapien.
+
+				Curabitur blandit non nisl quis elementum. Sed imperdiet turpis mauris, ut luctus neque tincidunt nec. Nunc ut dui lectus. Nam placerat nisi in nunc sodales, vitae tincidunt sem consectetur. Praesent consectetur aliquet sem quis dapibus. Fusce felis enim, ultricies sit amet lectus in, faucibus gravida dolor. Sed venenatis rutrum turpis, ut facilisis dui efficitur ac. Cras tincidunt ligula vel ipsum tincidunt scelerisque.
+
+				In eu erat id felis eleifend consequat. Integer vehicula rutrum sapien vel aliquet. Suspendisse pharetra, dolor in pellentesque tempus, lectus nulla accumsan neque, sit amet euismod ante est eget nisl. Vivamus pretium ut justo vitae gravida. Cras commodo magna eget felis bibendum, non gravida erat sodales. Donec auctor diam ipsum, ut ullamcorper nunc malesuada id. Ut sagittis odio at rhoncus efficitur. Nullam odio arcu, pellentesque laoreet odio eu, consectetur commodo arcu. Mauris varius ipsum semper purus pretium, in facilisis velit pharetra. Nulla scelerisque ligula magna, a lacinia arcu sagittis at. Pellentesque mattis laoreet nunc, nec vestibulum velit auctor quis. Phasellus lacinia tellus tortor, id porttitor augue egestas ac.
+
+				Nullam vitae rhoncus velit. Suspendisse mattis porttitor nisl, nec finibus turpis euismod id. Nam orci enim, mollis eget libero non, finibus molestie enim. Aliquam erat volutpat. Praesent vitae lobortis velit, luctus finibus ipsum. Mauris ligula magna, gravida iaculis mollis sed, cursus eu purus. Phasellus pretium tempus fringilla. Aenean et rutrum dolor. Maecenas vehicula tellus congue magna lacinia congue. Fusce semper sit amet nulla sed dignissim. Proin ut pellentesque sem. Nullam in ex sed velit dictum hendrerit at et purus. Nunc ut euismod turpis. Aliquam lobortis, nunc vitae sollicitudin scelerisque, nisi nunc suscipit dolor, et bibendum quam enim ut ante.
+			</span>
 			esto es un cambio
 		</div><!--end .center -->
 		<br>
